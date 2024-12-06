@@ -59,21 +59,22 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset containin
 ## Visualizations
 
 1. **Gender-Based Orders and Sales**  
-   ![Gender Analysis](assets/gender_analysis.png)
+   <img width="600" alt="Screenshot 2024-12-06 at 8 14 48 PM" src="https://github.com/user-attachments/assets/4fc5d799-d6b4-4c9a-bd46-f4431596547f">
 
 2. **Age Group vs. Sales**  
-   ![Age Group Analysis](assets/age_group_analysis.png)
+   <img width="609" alt="Screenshot 2024-12-06 at 8 15 20 PM" src="https://github.com/user-attachments/assets/bb915a4f-f6ad-4ea5-b5f5-b30adfe4f250">
 
 3. **Top 10 States by Orders and Sales**  
-   ![State Analysis](assets/state_analysis.png)
+   <img width="915" alt="Screenshot 2024-12-06 at 8 15 54 PM" src="https://github.com/user-attachments/assets/94114496-5261-4498-a42e-a5d520c649eb">
 
 4. **Marital Status and Purchasing Power**  
-   ![Marital Status Analysis](assets/marital_status_analysis.png)
+   <img width="484" alt="Screenshot 2024-12-06 at 8 16 13 PM" src="https://github.com/user-attachments/assets/f242057e-64a9-4ba6-ada9-3369bc10cf02">
 
 5. **Top Product Categories**  
-   ![Product Category Analysis](assets/product_category_analysis.png)
+  <img width="913" alt="Screenshot 2024-12-06 at 8 16 41 PM" src="https://github.com/user-attachments/assets/3cb99154-6f03-4f67-a277-ccade001b97b">
 
 ---
+
 
 ## Conclusion
 
